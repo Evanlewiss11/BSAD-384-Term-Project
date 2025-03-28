@@ -16,8 +16,7 @@ This database is designed for a social media platform similar to Facebook, where
 ## 2. Relational Model & Database Creation
 
 **Relational Model Screenshot:**
-
-![Relational Model](https://github.com/Evanlewiss11/BSAD-384-Term-Project/blob/main/Relational_Model.png)
+<img width="658" alt="Screenshot 2025-03-28 at 12 23 32 PM" src="https://github.com/user-attachments/assets/4393e118-3566-4e5f-b0c3-942e833b1f62" />
 
 **Database Creation Script:**
 
