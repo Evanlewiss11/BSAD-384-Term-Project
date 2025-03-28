@@ -8,7 +8,8 @@ This database is designed for a social media platform similar to Facebook, where
 
 **Entity-Relationship Diagram:**
 
-![ERD](https://github.com/Evanlewiss11/BSAD-384-Term-Project/blob/main/ERD.png)
+<img width="1389" alt="Screenshot 2025-03-28 at 12 21 45 PM" src="https://github.com/user-attachments/assets/14ae0da5-2c25-45c1-acc9-737dcb9a6e6b" />
+
 
 ---
 
