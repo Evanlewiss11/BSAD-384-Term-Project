@@ -14,8 +14,7 @@ The database manages relationships between all the core features: users, content
 - Friendships
 - Messaging
 - Groups and group memberships
-
-📷 *Insert screenshot of your ER diagram here (from draw.io or your modeling tool)*
+<img width="1411" alt="Screenshot 2025-03-28 at 12 13 19 PM" src="https://github.com/user-attachments/assets/306e035c-17bb-41b6-91de-59b9d9626527" />
 
 ## 2. Relational Model & Database Creation
 
