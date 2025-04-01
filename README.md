@@ -20,7 +20,8 @@ This database is designed for a social media platform similar to Facebook, where
 
 **Database Creation Script:**
 
-[populate.sql](https://github.com/Evanlewiss11/BSAD-384-Term-Project/blob/main/Populate.sql2.sql)
+[Populate.sql](SQLSCRIPTS/Populate.sql)
+
 
 This script contains the SQL code to drop any existing tables, create new ones, define primary and foreign key constraints, and insert sample data.
 
@@ -30,7 +31,7 @@ This script contains the SQL code to drop any existing tables, create new ones, 
 
 **SQL Queries File:**
 
- [query.sql](https://github.com/Evanlewiss11/BSAD-384-Term-Project/blob/main/Query.sql)
+ [Query.sql](SQLSCRIPTS/Query.sql)
 
 This file contains 5 milestone queries, including joins, aggregations, and a derived field.
 
