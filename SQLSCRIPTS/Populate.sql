@@ -95,7 +95,7 @@ INSERT INTO dbo.Friendship VALUES (1, 2, '2023-02-20');
 INSERT INTO dbo.Friendship VALUES (2, 3, '2023-03-05');
 
 INSERT INTO dbo.Post VALUES (1, 1, 'First post from Evan!', '2023-04-01 12:00');
-INSERT INTO dbo.Post VALUES (2, 2, 'Kya here � testing the platform.', '2023-04-02 14:30');
+INSERT INTO dbo.Post VALUES (2, 2, 'Kya here testing the platform.', '2023-04-02 14:30');
 
 INSERT INTO dbo.[Like] VALUES (1, 2, 1, '2023-04-01 13:00');
 INSERT INTO dbo.[Like] VALUES (2, 3, 2, '2023-04-02 15:00');
